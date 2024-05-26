@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login &amp; Signup</string>
+    <string name="welcome">Welcome</string>
+    <string name="Sign_in_backgroud">Sign in backgroud image</string>
+    <string name="titel_sign_in">Sign-In</string>
+    <string name="hint_username">Username</string>
+    <string name="do_you_forgot_your_password">Do you forgot your password ?</string>
+    <string name="name_button_login">Login</string>
+    <string name="name_button_sign_up">Sign-Up</string>
+    <string name="show_password">Show Password</string>
+    <string name="hint_password">Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="your_e_mail">Your E-mail</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="signup_your_e_mail">Your E-mail</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="sign_up_image">Sign up image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
